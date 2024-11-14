@@ -12,7 +12,7 @@ export function Lock() {
       <div className="flex justify-center items-center">
         <WordPullUp
           className="text-2xl font-bold tracking-[-0.02em] text-white md:text-4xl md:leading-[5rem]"
-          words="Espere clicanco"
+          words="Espere clicando"
         />
         <ConfettiStars />
       </div>
